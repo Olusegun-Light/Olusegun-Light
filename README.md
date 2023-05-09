@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **lightolusegun1@gmail.com**
 
-- 🧑‍💻 I enjoy building backend projects with new nodejs and collaborating with other engineers to solve bugs.
+- 🧑‍💻 I enjoy building backend projects with nodejs and collaborating with other engineers to solve bugs.
 
 - 🍀 Check out my [portfolio](olusegun-light.vercel.app)
 
