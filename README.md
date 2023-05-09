@@ -6,11 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/light_senpaii_" target="blank"><img src="https://img.shields.io/twitter/follow/light_senpaii_?logo=twitter&style=for-the-badge" alt="light_senpaii_" /></a> </p>
 
-- 🌱 I’m currently building with **React, Typescript and Nodejs**
+- 🌱 I’m currently building with **JavaScript, NodeJs, Python**
 
 - 📫 How to reach me **lightolusegun1@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/light/olusegun-light](https://rxresu.me/light/olusegun-light-1)
+- 🧑‍💻 I enjoy building backend projects with new nodejs and collaborating with other engineers to solve bugs.
+
+- 🍀 Check out my [portfolio](olusegun-light.vercel.app)
+
+- 📄 Know about my experiences [https://rxresu.me/light/olusegun-light_1](https://rxresu.me/light/olusegun-light-1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
