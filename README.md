@@ -1,20 +1,20 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Olusegun Light</h1>
-<h3 align="center">A passionate full-stack web developer from Nigeria</h3>
+<h3 align="center">A passionate backend engineer </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olusegun-light&label=Profile%20views&color=0e75b6&style=flat" alt="olusegun-light" /> </p>
 
 <p align="left"> <a href="https://twitter.com/light_senpaii_" target="blank"><img src="https://img.shields.io/twitter/follow/light_senpaii_?logo=twitter&style=for-the-badge" alt="light_senpaii_" /></a> </p>
 
-- 🌱 I’m currently building with **JavaScript, NodeJs, Python**
+- 🌱 Currently, my technical repertoire encompasses an array of cutting-edge technologies, including **JavaScript, Node.js, Express.js, MongoDB, REST API, and Python**. These tools empower me to craft robust and scalable solutions that push the boundaries of innovation.
 
-- 📫 How to reach me **lightolusegun1@gmail.com**
+- 📫  Feel free to reach out to me via email at lightolusegun1@gmail.com to connect, collaborate, or engage in insightful discussions. I'm always eager to foster connections with fellow professionals, exchange ideas, and embark on meaningful coding ventures together.
 
-- 🧑‍💻 I enjoy building backend projects with nodejs and collaborating with other engineers to solve bugs.
+- 🧑‍💻 As a passionate backend engineer, I derive great joy from architecting and constructing backend projects with Node.js. Solving intricate bugs and optimizing code performance through collaboration with talented peers truly excites me.
 
-- 🍀 Check out my [portfolio](olusegun-light.vercel.app)
+- 🍀 Discover prijects I've undertaken, showcasing my prowess in crafting elegant solutions that align with industry best practices. [portfolio](olusegun-light.vercel.app)
 
-- 📄 Know about my experiences [https://rxresu.me/light/olusegun-light_1](https://rxresu.me/light/olusegun-light-1)
+- 📄  If you're interested in delving deeper into my professional journey and notable accomplishments, I invite you to explore my comprehensive [CV](https://bit.ly/3r398dq). It provides valuable insights into my growth, expertise, and the impact I've made in my career.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
