@@ -12,7 +12,7 @@
 
 - 🧑‍💻 As a passionate backend engineer, I derive great joy from architecting and constructing backend projects with Node.js. Solving intricate bugs and optimizing code performance through collaboration with talented peers truly excites me.
 
-- 🍀 Discover prijects I've undertaken, showcasing my prowess in crafting elegant solutions that align with industry best practices. [portfolio](olusegun-light.vercel.app)
+- 🍀 Discover [portfolio](olusegun-light.vercel.app) I've undertaken, showcasing my prowess in crafting elegant solutions that align with industry best practices. 
 
 - 📄  If you're interested in delving deeper into my professional journey and notable accomplishments, I invite you to explore my comprehensive [CV](https://bit.ly/3r398dq). It provides valuable insights into my growth, expertise, and the impact I've made in my career.
 
