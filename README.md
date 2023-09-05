@@ -14,7 +14,7 @@
 
 - 🍀 Discover [projects](https://olusegun-light.vercel.app/) I've undertaken, showcasing my prowess in crafting elegant solutions that align with industry best practices. 
 
-- 📄  If you're interested in delving deeper into my professional journey and notable accomplishments, I invite you to explore my comprehensive [CV](https://bit.ly/43ai5im). It provides valuable insights into my growth, expertise, and the impact I've made in my career.
+- 📄  If you're interested in delving deeper into my professional journey and notable accomplishments, I invite you to explore my comprehensive [CV](https://drive.google.com/file/d/1_fFJjhVUJkuV-6wTOn1e3OhMIrzvO-Kj/view?usp=sharing). It provides valuable insights into my growth, expertise, and the impact I've made in my career.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
