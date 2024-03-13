@@ -14,7 +14,7 @@
 
 - 🍀 Discover projects I've undertaken, showcasing my prowess in crafting elegant solutions that align with industry best practices. 
 
-- 📄  If you're interested in delving deeper into my professional journey and notable accomplishments, I invite you to explore my comprehensive [CV](https://drive.google.com/file/d/1gv0yXlGwgZ1xqzft8Z7_qlXiXhmb95ld/view?usp=sharing). It provides valuable insights into my growth, expertise, and the impact I've made in my career.
+- 📄  If you're interested in delving deeper into my professional journey and notable accomplishments, I invite you to explore my comprehensive [CV](https://drive.google.com/file/d/1y0tSEmUT1bvBldJgXKtMvA3TuVxhlKTH/view?usp=drive_link). It provides valuable insights into my growth, expertise, and the impact I've made in my career.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
