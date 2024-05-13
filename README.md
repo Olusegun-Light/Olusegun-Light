@@ -2,7 +2,7 @@
 <h3 align="left">Backend Engineer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olusegun-light&label=Profile%20views&color=0e75b6&style=flat" alt="olusegun-light" /> </p>
 
-Being a result-driven backend engineer with over 3 years of experience, I derive great joy from architecting and constructing backend projects with Node.js. Solving intricate bugs and optimizing code performance through collaboration with talented peers truly excites me.
+Experienced backend developer specializing in driving results across various sectors including edutech, ecommerce, medtech, and fintech for over three years. Skilled in integrating creativity with technology to deliver outstanding user experiences. Proven track record of delivering effective solutions and playing a key role in the success of organizations.
 
 - 🖥️  See my portfolio at [devLight.com](https://portfolio-v2-pokks8zg9-olusegun-light.vercel.app/)
 - ✉️  You can contact me at lightolusegun1@gmail.com
